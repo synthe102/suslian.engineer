@@ -22,10 +22,13 @@ Permanent · since October 2020
 - Migration with minimal downtime of the production environment across two AWS regions.
 - Infrastructure as Code implementation using Terraform.
 - Creation of a new staging environment to enhance development velocity.
-- Implementation of Datadog as a monitoring solution for logs, traces and metrics.- Migration with minimal downtime of the production environment across two AWS regions. - Infrastructure as Code implementation using Terraform. - Creation of a new staging environment to enhance development velocity. - Implementation of Datadog as a monitoring solution for logs, traces and metrics.…see more
-Skills: Cloud-Native Architecture
+- Implementation of Datadog as a monitoring solution for logs, traces and metrics.- Migration with minimal downtime of the production environment across two AWS regions. - Infrastructure as Code implementation using Terraform. - Creation of a new staging environment to enhance development velocity. - Implementation of Datadog as a monitoring solution for logs, traces and metrics.
 
 ## Labomap
 
 **Research And Development Intern**  
 Feb 2020 - Jul 2020
+
+# Contact
+
+Mail: [contact@suslian.engineer](mailto:contact@suslian.engineer)
