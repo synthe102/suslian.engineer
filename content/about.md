@@ -7,17 +7,26 @@ disableShare: true
 ---
 
 Hi, I'm Léonard.  
-I am a SRE/Platform engineer, currently working at [Kong](https://konghq.com) on their API Gateway SaaS offering.
+I am a SRE/Platform engineer, currently working at [Mistral AI](https://mistral.ai).
 Learning and experimenting with cloud native technologies is a passion of mine. I'm particularly interested in bare-metal management for k8s clusters.
 You can find me in a small town in Brittany, France.
 
 # Experiences ✨
 
-## Kong
+## Mistral AI
 
 **SRE 👨‍💻**  
-Permanent · since October 2022
+Permanent · since August 2024
 
+- Large scale infrastructure management for inference and fine tuning workloads
+- Multi-cloud, multi-region infrastructure with hot-hot architecture
+
+## Kong
+
+**Senior SRE 👨‍💻**  
+Permanent · October 2022 - August 2024
+
+- Built Kong [Cloud Gateways](https://konghq.com/blog/product-releases/dedicated-cloud-gateways) SaaS offering.
 - Development of kubernetes operators in Go for large scale multi-cloud Infrastructure Management.
 - k8s at scale using Cluster API
 
